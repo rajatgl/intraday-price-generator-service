@@ -1,0 +1,22 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+plugins {
+    id 'java'
+}
+
+sourceCompatibility = "11"
+targetCompatibility = "11"
+version = "0.0.3"
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}

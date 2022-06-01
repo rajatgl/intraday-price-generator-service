@@ -1,0 +1,3 @@
+rootProject.name = 'intraday-price-generator-services'
+include 'intraday-price-generator'
+
